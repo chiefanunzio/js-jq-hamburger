@@ -1,7 +1,7 @@
 
 $('.fa-bars').click(function(){
 
-        $('.hamburger-menu').show()
+    $('.hamburger-menu').show()
 })
 
 $('.fa-times').click(function(){
